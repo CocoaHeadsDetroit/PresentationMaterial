@@ -1,4 +1,4 @@
-# Cocoaheads Meetup Jan 19 2017
+# CocoaHeads Meetup Jan 19 2017
 
 ##Presentation
 App Transport Security
