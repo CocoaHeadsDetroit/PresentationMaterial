@@ -1,12 +1,12 @@
 # CocoaHeads Meetup Jan 19 2017
 
-##Presentation
+## Presentation
 App Transport Security
 
 Jeff Meador
 
 ### Slides
-PDF Copy (no videos): <https://drive.google.com/file/d/0B18trq66b_OhWFdRd2JRZ0FTS0E/view?usp=sharing>
+[PDF Copy (no videos)](ATS-Presentation.pdf)
 
 ### Notes
 ATS Tool: <https://apptransport.info>

@@ -6,15 +6,15 @@ Dependency Injection
 Aaron DeGrow
 
 ### Slides
-PDF Copy: <https://drive.google.com/open?id=0B4XLSdPBluqjeS1zNnQwcWs3TGs>
+[PDF Copy](DependencyInjection.pdf)
 
-##Presentation
+## Presentation
 Unit Testing
 
 Aaron DeGrow
 
 ### Slides
-PDF Copy: <https://drive.google.com/open?id=0B4XLSdPBluqjNlEydEE5dmhTMUk>
+[PDF Copy](UnitTesting.pdf)
 
 ### Notes
 Sample Project: <https://github.com/CocoaHeadsDetroit/UnitTesting>
