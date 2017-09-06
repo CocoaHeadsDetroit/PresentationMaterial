@@ -3,7 +3,7 @@
 ## Presentation
 Fastlane Introduction
 
-Cory Becthel
+Cory Bechtel
 
 ### Slides
 [PDF Copy](Fastlane%20Presentation.pdf)
