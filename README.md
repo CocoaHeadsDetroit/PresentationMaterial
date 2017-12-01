@@ -8,3 +8,4 @@
 5. [Server-Side Swift & Automatic Analytics](/2017/05/25)
 6. [WWDC 2017 Favorites](/2017/07/06)
 7. [Introduction to Blockchains](/2017/08/24)
+7. [Paying Bills With SiriKit](/2017/11/30)
